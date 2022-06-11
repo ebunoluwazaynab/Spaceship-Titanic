@@ -1,0 +1,2 @@
+# Spaceship-Titanic
+Kaggle recently launched a fun competition called Spaceship Titanic. It is designed to be an update of the popular Titanic competition which helps people new to data science learn the basics of machine learning, get acquainted with Kaggle's platform, and meet others in the community. This repository is a beginner friendly analysis of the Spaceship Titanic Kaggle Competition. It covers steps to obtain any meaningful insights from the data, and to predict the "ground truth" for the test set with an accuracy of ~80 percent using RandomForestClassifier.
